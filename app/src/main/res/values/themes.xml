@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Theme.Netflix" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF141414</item>
+    </style>
+</resources>
